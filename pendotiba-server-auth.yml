@@ -22,7 +22,7 @@ security:
             client-id: angular
             client-secret: 20bf6412f89388d9e3e3cb3267e2359e
             resource-ids: resources
-            #scope: read,write
+            scope: read, write
 
 spring:
     datasource:
